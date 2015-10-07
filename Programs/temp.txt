@@ -1,0 +1,9 @@
+/var/lib/dpkg/info/jdk1.8.0-60.prerm
+/var/lib/dpkg/info/jdk1.8.0-60.list
+/var/lib/dpkg/info/jdk1.8.0-60.conffiles
+/var/lib/dpkg/info/jdk1.8.0-60.postinst
+/var/lib/dpkg/info/jdk1.8.0-60.postrm
+/var/lib/dpkg/info/jdk1.8.0-60.md5sums
+/var/crash/jdk1.8.0-60.0.crash
+/home/harsha/Downloads/jdk1.8.0-60_1.8.060-1_amd64.deb
+/home/harsha/.cache/upstart/update-notifier-crash-_var_crash_jdk1.8.0-60.0.crash.log
